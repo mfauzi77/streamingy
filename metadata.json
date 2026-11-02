@@ -1,0 +1,6 @@
+{
+  "name": "StreamTube - YouTube Web Player",
+  "description": "An advanced YouTube-like video streaming web application with watch history, subscriptions, playlists, and zero shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
